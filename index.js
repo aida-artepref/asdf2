@@ -1,1 +1,2 @@
-console.log("viato");
+import{IfcAPI} from "web-ifc/web-ifc-api";
+console.log("IfcAPI");
